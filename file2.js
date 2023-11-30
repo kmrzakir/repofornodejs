@@ -17,3 +17,4 @@ const fs = require("fs");
 // fs.rmdir("myfolder",(er) => {
 //     console.log("folder deleated");
 // })
+console.log("12345");
